@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Sebastian Raczka</h1>
-<h3 align="center">Begginer UE5 developer. I also have experience with many programming languages and with frontend stuff</h3>
+<h3 align="center">Begginer UE5 developer. I also have experience with frontend/backend stuff</h3>
 
 - 🌱 I’m currently learning **Unreal Engine 5 and python**
 
