@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Sebastian Raczka</h1>
-<h3 align="center">Begginer UE5 developer. I also have experience with frontend/backend stuff</h3>
+<h1 align="center">Hi, I'm Sebastian Rączka</h1>
+<h3 align="center">I'm studying Computer Sience at Uni.</h3>
 
-- 🌱 I’m currently learning **Unreal Engine 5 and python**
+- 🌱 I’m currently learning **OOP (mainly Java) / Argorithms and Data Structures.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ai3izu](https://github.com/ai3izu)
 
