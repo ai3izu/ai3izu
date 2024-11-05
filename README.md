@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sebastian Rączka</h1>
 <h3 align="center">I'm studying Computer Sience at Uni.</h3>
-- 🌱 I’m currently learning **OOP (mainly Java) / Argorithms and Data Structures.**
+- 🌱 I’m currently learning  OOP (mainly Java) / Argorithms and Data Structures.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ai3izu](https://github.com/ai3izu)
 </br></br>
