@@ -74,7 +74,3 @@ Jestem otwarty na:
 ---
 
 ⭐ Jeśli podoba Ci się to, co robię — zostaw gwiazdkę w repozytorium!
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ai3izu&show_icons=true)
-
