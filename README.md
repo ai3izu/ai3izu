@@ -6,7 +6,7 @@
 
 ## 🚀 O mnie
 
-Jestem studentem informatyki i pasjonatem tworzenia stron WWW. Obecnie skupiam się głównie na **frontendzie**, ale konsekwentnie rozwijam się w kierunku **fullstack developera**.
+Jestem studentem informatyki i pasjonatem tworzenia witryn internetowych. Obecnie skupiam się głównie na **frontendzie**, ale konsekwentnie rozwijam się w kierunku **fullstack developera**.
 
 Cenię sobie **ambicję, systematyczny rozwój i praktyczne podejście do nauki** — kodowanie to dla mnie nie tylko studia, ale realna pasja.
 
