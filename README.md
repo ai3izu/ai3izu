@@ -10,6 +10,11 @@ Jestem studentem informatyki i pasjonatem tworzenia witryn internetowych. Obecni
 
 Cenię sobie **ambicję, systematyczny rozwój i praktyczne podejście do nauki** — kodowanie to dla mnie nie tylko studia, ale realna pasja.
 
+Moje aktualne realizacje 
+- 🔗 [Strona internetowa Budrys](https://www.budrys.eu/)
+- 🔗 [Strona internetowa kancelarii adwokacjkiej](https://kancelariatrzeciak.pl/)
+- 🔗 [Witryna internetowa EnergiaCert](https://www.energiacert.pl/)
+
 ---
 
 ## 🛠️ Technologie, które znam
