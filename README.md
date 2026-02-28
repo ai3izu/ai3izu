@@ -12,7 +12,7 @@ Cenię sobie **ambicję, systematyczny rozwój i praktyczne podejście do nauki*
 
 Moje aktualne realizacje 
 - 🔗 [Strona internetowa Budrys](https://www.budrys.eu/)
-- 🔗 [Strona internetowa kancelarii adwokacjkiej](https://kancelariatrzeciak.pl/)
+- 🔗 [Strona internetowa kancelarii adwokackiej](https://kancelariatrzeciak.pl/)
 - 🔗 [Witryna internetowa EnergiaCert](https://www.energiacert.pl/)
 
 ---
