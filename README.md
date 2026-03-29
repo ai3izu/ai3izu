@@ -14,8 +14,8 @@ Moje aktualne realizacje
 - 🔗 [Strona internetowa Budrys](https://www.budrys.eu/)
 - 🔗 [Strona internetowa kancelarii adwokackiej](https://kancelariatrzeciak.pl/)
 - 🔗 [Witryna internetowa EnergiaCert](https://www.energiacert.pl/)
-- [Witryna Fumigacja24](https://fumigacja24.pl/)
-- [No Vibration](https://no-vibration.com/)
+- 🔗 [Witryna Fumigacja24](https://fumigacja24.pl/)
+- 🔗 [No Vibration](https://no-vibration.com/)
 
 ---
 
